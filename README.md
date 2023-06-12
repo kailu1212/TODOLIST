@@ -1,2 +1,2 @@
 # TODOLIST
-Todolist 練習
+Todolist jQuery 版本
